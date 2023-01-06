@@ -18,6 +18,6 @@
 - 좋은 코드를 짜는 개발자가 되기 위하여!
 - 면접에 대비하여 미리 자바스크립트의 문법과 동작을 이해한다.
 
-| [이창훈](https://github.com/anotheranotherhoon) | [정환민](https://github.com/JEONGHWANMIN) | [한성욱](https://github.com/StarryPro) | [박태휘](https://github.com/tahupapa) |[전주현](https://github.com/Kayoh709)|[김현호](https://github.com/ryan-kim-dev)|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| ![](https://github.com/anotheranotherhoon.png) | ![](https://github.com/JEONGHWANMIN.png) | ![](https://github.com/StarryPro.png) | ![](https://github.com/tahupapa.png) | ![](https://github.com/Kayoh709.png) | ![](https://github.com/ryan-kim-dev.png) |
+| [이창훈](https://github.com/anotheranotherhoon) | [정환민](https://github.com/JEONGHWANMIN) | [한성욱](https://github.com/StarryPro) | [박태휘](https://github.com/tahupapa) |[김현호](https://github.com/ryan-kim-dev)|
+| :---: | :---: | :---: | :---: | :---: |
+| ![](https://github.com/anotheranotherhoon.png) | ![](https://github.com/JEONGHWANMIN.png) | ![](https://github.com/StarryPro.png) | ![](https://github.com/tahupapa.png) | ![](https://github.com/ryan-kim-dev.png) |
